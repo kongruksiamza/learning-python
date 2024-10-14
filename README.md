@@ -1,4 +1,4 @@
-## ตารางลำดับเนื้อหา (Phase1)
+## ตารางลำดับเนื้อหา
 | ลำดับที่ |หัวข้อ|โค้ดประกอบการสอน|
 |:----:|:-----:|:-------------:|
 |   1  | แนะนำเนื้อหา |-|
@@ -37,3 +37,25 @@
 |   34  | ฟังก์ชั่นจัดการ Dictionary |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase1/EP34-DictionaryFunction.py)|
 |   35  | ตัวดำเนินการเอกลักษณ์ |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase1/EP35-IdentityOperator.py)|
 |   36  | ตัวดำเนินการสมาชิก |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase1/EP36-MembershipOperator.py)|
+|   37  | Pattern Matching |-|
+|   38  | Literal Pattern |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP38-LiteralPattern.py)|
+|   39  | Wildcard Pattern|[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP39-WildcardPattern.py)|
+|   40  | Capture Pattern |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP40-CapturePattern.py)|
+|   41  | Guard |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP41-Guard.py)|
+|   42  | OR Pattern |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP42-ORPattern.py)|
+|   43  | Sequence Pattern |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP43-SequencePattern.py)|
+|   44  | Mapping Pattern |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP44-MappingPattern.py)|
+|   45  | การสร้างฟังก์ชั่น (Function) |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP45-Function.py)|
+|   46  | ฟังก์ชั่นแบบมีพารามิเตอร์ |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP46-ParameterFunction.py)|
+|   47  | ฟังก์ชั่นแบบกำหนดค่าเริ่มต้น |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP47-DefaultFunction.py)|
+|   48  | Arguments (args & kwargs) |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP48-argskwargs.py)|
+|   49  | ฟังก์ชั่นแบบมีค่าส่งกลับ |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP49-ReturnFunction.py)|
+|   50  | ฟังก์ชั่นแบบรับและส่งค่า |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP50-ParaReturnFunction.py)|
+|   51  | Lambda Function |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP51-lambdafunction.py)|
+|   52  | ขอบเขตตัวแปร |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP52-VariableScope.py)|
+|   53  | Return Keyword |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP53-ReturnKeyword.py)|
+|   54  | Exception |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP54-Exception.py)|
+|   55  | Try...Except |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP55-TryExcept.py)|
+|   56  | Raise |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Phase2/EP56-Raise.py)|
+|   57  | สร้างโมดูล (Module) |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/tree/main/Modules)|
+|   58  | เรียกใช้งานโมดูล (import , from) |[ดูโค้ด](https://github.com/kongruksiamza/learning-python/blob/main/Modules/program.py)|
