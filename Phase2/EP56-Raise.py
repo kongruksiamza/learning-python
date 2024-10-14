@@ -1,0 +1,16 @@
+try:
+    number1=int(input("ป้อนตัวเลขที่ 1:"))
+    number2=int(input("ป้อนตัวเลขที่ 2:"))
+    if number1<0 or number2<0:
+        raise Exception("ข้อมูลตัวเลขต้องเป็นค่าบวกเท่านั้น!")
+        
+    result = number1/number2
+    print("ผลลัพธ์ = ",result)
+except ValueError:
+    print("ข้อมูลไม่ถูกต้อง กรุณาป้อนข้อมูลเฉพาะตัวเลขเท่านั้น!")
+except ZeroDivisionError:
+    print("หารด้วยศูนย์ไม่ได้! เนื่องจากไม่ถูกนิยามในทางคณิตศาสตร์")
+finally:
+    print("------------")
+    print("End Program")
+    print("------------")
